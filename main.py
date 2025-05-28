@@ -84,3 +84,5 @@ if uploaded_file is not None and processar:
     except Exception as e:
         # Caso ocorra algum erro, exibe mensagem ao usuário
         st.error(f"Erro ao processar os dados: {e}")
+
+##TESTE
